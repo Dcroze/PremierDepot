@@ -1,0 +1,58 @@
+body 
+{
+    background-color: gray;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.titrePremierArticle
+{
+    text-shadow: 2px 2px 4px black;
+    background: url("CH2_4_pingouin.png") left no-repeat ;
+    background-origin: border-box;
+    background-size: contain;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    left: 150px;
+    position: relative;
+    border: dashed;
+    border-color: orange;
+    background-color: purple;
+    border-width: 14px;
+    background-clip: border-box;
+
+}
+.titreDeuxièmeArticle
+{
+    text-shadow: 2px 2px 4px black;
+    background: url("CH2_4_pingouin.png") left no-repeat ;
+    background-origin: padding-box;
+    background-size: contain;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    left: 150px;
+    position: relative;
+    border: dashed;
+    border-color: orange;
+    background-color: blue;
+    border-width: 14px;
+    background-clip: padding-box;
+
+}
+.titreTroisièmeArticle
+{
+    text-shadow: 2px 2px 4px black;
+    background: url("CH2_4_pingouin.png") left no-repeat ;
+    background-origin: content-box;
+    background-size: contain;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    left: 150px;
+    position: relative;
+    border: dashed;
+    border-color: orange;
+    background-color: red;
+    border-width: 14px;
+    background-clip: content-box;
+    
+
+}

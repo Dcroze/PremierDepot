@@ -1,0 +1,31 @@
+body
+{
+    background: url("CH2_3_Ex1_pingouin.png") fixed no-repeat center, url("CH2_3_Ex1_feuilles.png") scroll repeat;
+}
+.affectation
+{
+    color:blue;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top:5px;
+    margin-bottom:10px;
+}
+.titrePoème 
+{
+    color: purple;
+    font-size: 75px;
+}
+.textePrincipal
+{
+    color: black;
+    font-size: large;
+    margin-top:10px;
+    margin-bottom:20px;
+    line-height: 70px
+}
+.wiki, .XHTML, .CSS
+{
+    font-size:25px;
+    margin-top:10px;
+    margin-bottom:20px;
+}

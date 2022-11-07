@@ -1,0 +1,24 @@
+body    {
+    background-image: url("CH2_3_Ex1_pingouin.png");
+    background-size: cover;
+    background-color: darkolivegreen;
+}
+
+.titre  {
+    font-family: "Agency FB";
+    font-size: 45px;
+    font-weight: bold;
+    color: azure;
+}
+
+section {
+    background-size: cover;
+    background-color: rgba(222, 123, 23, 0.4);
+}
+
+article    {
+    background-image: url("CH2_3_Ex1_pingouin.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(205, 0, 0, 0.4);
+}

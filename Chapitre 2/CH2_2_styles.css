@@ -1,0 +1,71 @@
+.titre
+{
+    color: red;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.auteur
+{
+    color:purple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top:20px;
+}
+.profession
+{
+    color:purple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom:20px
+}
+.DeuxPremiersParagraphes
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-indent : 20px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.origineLointaine, .australopithèques, .homo
+{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.troisièmeParagraphe
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-style: italic;
+    margin-top:10px;
+    margin-bottom:20px;
+    line-height: 1cm;
+}
+.sous-titreUn, .sous-titreDeux, .sous-titreTrois, .sous-titreQuatre, .sous-titreCinq, .sous-titreSix, .sous-titreSept, .sous-titreHuit, .sous-titreNeuf
+{
+    font-size: 13px;
+    text-decoration: underline;
+
+}
+.quatrièmeParagraphe
+{
+    font-weight: normal;
+    margin-top:10px;
+    margin-bottom:20px;
+    line-height: 10px;
+}
+.cinquièmeParagraphe
+{
+    color : lightblue;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.dernierParagraphe
+{
+    color : lightblue;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
